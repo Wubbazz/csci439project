@@ -1,0 +1,18 @@
+Simple Program to turn character text into a animated window
+
+Instructions:
+
+make : to compile the program.
+
+make run : to run the program on test file inside the testfile folder.
+
+make clean : delete the executable.
+
+To test your own files just : ./prog < testfile.cb
+
+
+Technologies:
+c++
+SDL
+
+
